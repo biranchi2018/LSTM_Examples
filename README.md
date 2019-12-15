@@ -2,6 +2,7 @@
 LSTM Array Shapes :
 =====================
 
+```
 One to one single feature:
 X = array(X).reshape(25, 1, 1)
 
@@ -17,5 +18,5 @@ X = X.reshape(15,3,1)
 Many to one multiple feature:
 X = X.reshape(15,3,2)
 
-
+```
 
