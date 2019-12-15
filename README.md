@@ -1,5 +1,3 @@
-# LSTM_Examples
-
 
 LSTM Array Shapes :
 =====================
